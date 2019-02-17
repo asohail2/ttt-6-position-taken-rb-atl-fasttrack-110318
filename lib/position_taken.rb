@@ -9,10 +9,7 @@ def position_taken?(board, index)
   else
     return true
   end
-end  
-
-position_taken?(2, [7])
-
+end
 
 
 # code your #position_taken? method here!
