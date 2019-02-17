@@ -11,7 +11,7 @@ def position_taken?(board, index)
   end
 end  
 
-position_taken?(2, 7)
+position_taken?(2, [7])
 
 
 
